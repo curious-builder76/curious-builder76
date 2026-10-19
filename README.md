@@ -1,5 +1,5 @@
 ## Hi there 👋
-I just code sometimes...
+I just code sometimes for fun...
 
 And created some stupid repositories in hope to help others, hope you like them.
 
