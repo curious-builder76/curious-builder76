@@ -1,4 +1,8 @@
 ## Hi there 👋
+I just code sometimes...
+
+And created some stupid repositories in hope to help others, hope you like them.
+
 
 <!--
 **curious-builder76/curious-builder76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
