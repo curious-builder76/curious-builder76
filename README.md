@@ -8,8 +8,8 @@ I know `python` ( in other words messed with `python` for 5 years) and `C` progr
 Here are my some of my works
 
 ## Projects
-- `dtypes` a data-structure library written in pure C, for more details see [here](dtypes/ )
-- `theta` which is a password recovery/cracking tool which can be found [here](theta/)
+- `dtypes` a data-structure library written in pure C, for more details see [here](https://github.com/curious-builder76/dtypes/ )
+- `theta` which is a password recovery/cracking tool which can be found [here](https://github.com/curious-builder76/theta/)
 
 
 <!--
