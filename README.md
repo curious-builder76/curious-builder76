@@ -1,7 +1,13 @@
 ## Hi there 👋
-I just code sometimes for fun...
 
-And created some stupid repositories in hope to help others, hope you like them.
+I'm a hobbyist self-taught programmer, I write programs in free-time for fun,
+In hopes that someone will find them useful. 
+
+Here are my some of my works
+
+## Projects
+- `dtypes` a data-structure library written in pure C, for more details see [here](dtypes/ )
+- `theta` which is a password recovery/cracking tool which can be found [here](theta/)
 
 
 <!--
