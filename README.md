@@ -3,6 +3,8 @@
 I'm a hobbyist self-taught programmer, I write programs in free-time for fun,
 In hopes that someone will find them useful. 
 
+I know `python` ( in other words messed with `python` for 5 years) and `C` programming language (messed with `C` for 3 yrs). 
+
 Here are my some of my works
 
 ## Projects
